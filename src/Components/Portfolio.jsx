@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/starry.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "starry night sky";
 
 /**
  * Project list
@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Beecrowd or URI Online Judge Solutions",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "My problem journey in the programming world, where I solve problems from the URI Online Judge and Beecrowd platforms.",
+    url: "https://github.com/MihalKazi/BeeCrowd-or-URI--Solvings",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My Microsoft Learn Student Ambassador Journey",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "The learnings and experiences I had as a Microsoft Learn Student Ambassador.",
+    url: "https://learn.microsoft.com/en-us/users/kazirohanuzzamanmehal-3582",
   },
   {
     title: "My Resume Site",
@@ -49,10 +49,10 @@ const projectList = [
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Microsoft Learn Student Ambassador Profile",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "My profile on the Microsoft Learn Student Ambassador website. You can find my contributions to the community here.",
+    url: "https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/c35b3cb8-d4d8-47e5-a264-6a6237c5c5de",
   },
 ];
 
